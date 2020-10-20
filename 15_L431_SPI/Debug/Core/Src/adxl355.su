@@ -1,0 +1,12 @@
+adxl355.c:29:6:ADXL355_Init	24	static
+adxl355.c:54:10:ADXL355_SPI_Read	40	static
+adxl355.c:183:6:ADXL355_SPI_Write	32	static
+adxl355.c:230:6:ADXL355_Start_Sensor	16	static
+adxl355.c:251:6:ADXL355_Stop_Sensor	16	static
+adxl355.c:271:6:ADXL355_Set_Range	24	static
+adxl355.c:303:10:ADXL355_Read_Range	16	static
+adxl355.c:323:6:ADXL355_Data_Scan	8	static
+adxl355.c:360:9:ADXL355_Acceleration_Data_Conversion	24	static
+adxl355.c:386:6:ADXL355_Self_Test	16	static
+adxl355.c:406:6:ADXL355_Convert_Angle	48	static
+adxl355.c:429:6:ADXL355_Temp_Compensation	64	static
